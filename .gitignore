@@ -3,6 +3,7 @@ venv/
 .env/
 .venv/
 env/
+/chroma_educosys_db
 
 # Byte-compiled files
 __pycache__/
