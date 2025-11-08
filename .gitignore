@@ -1,0 +1,21 @@
+# Virtual environment folders
+venv/
+.env/
+.venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
