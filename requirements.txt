@@ -1,0 +1,8 @@
+langchain-chroma
+langchain
+langchain-text-splitters
+bs4
+langchain[google-genai]
+langchain[openai]
+pypdf
+langchain_community
