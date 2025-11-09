@@ -7,3 +7,4 @@ langchain[openai]
 pypdf
 pymupdf
 langchain_community
+streamlit
